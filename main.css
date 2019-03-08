@@ -1,0 +1,12 @@
+ h2 {
+    color: black;
+    font-size: 25px
+}
+body {
+    background-color: chocolate;
+    
+}/*for line 9, also access by .class such as .fearlessIms or by #theid such as # bedPic */
+
+.fearlessImgs {
+    width:10%
+}
